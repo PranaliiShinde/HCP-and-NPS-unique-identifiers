@@ -1,4 +1,4 @@
-# HCP-and-NPS-unique-identifiers
+# Healthcare Data
 # 📊 Power BI Assessment Dashboard
 
 This repository contains a Power BI dashboard built as part of my **Data Analyst assessment project**.  

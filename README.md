@@ -15,7 +15,7 @@ The dashboard provides interactive visualizations and insights for better decisi
 ---
 
 ## 📂 File
-- `assesment_powerbi.pbix` → Power BI file containing the dashboard.  
+- `assesment_powerbi.pbix` → Power BI file containing the dashboard.
 
 ---
 

@@ -27,7 +27,6 @@ The dashboard provides interactive visualizations and insights for better decisi
 ---
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here – it makes your repo stand out)*  
 
 Example:  
 ![Dashboard Preview](Insights.png)  
